@@ -1,0 +1,16 @@
+.balon {
+    font-size: 30px;
+    -moz-user-select: none; 
+    -khtml-user-select: none; 
+    user-select: none;
+}
+
+h1 {
+    -moz-user-select: none; 
+    -khtml-user-select: none; 
+    user-select: none;
+}
+
+.bal-press {
+    font-size: 50px;
+}
